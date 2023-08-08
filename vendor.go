@@ -1,0 +1,5 @@
+package cloudbmapper
+
+func new() {
+
+}
